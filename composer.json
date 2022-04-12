@@ -1,0 +1,22 @@
+{
+    "name": "nirbose/collection.php",
+    "description": "collection.php code source",
+    "require-dev": {
+        "symfony/var-dumper": "^6.0"
+    },
+    "license": "GNU",
+    "autoload": {
+        "psr-4": {
+            "Nirbose\\Collection\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nirbose",
+            "email": "contact@nirbose.fr"
+        }
+    ],
+    "require": {
+        "php": "^8.1"
+    }
+}
